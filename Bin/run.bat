@@ -1,0 +1,1 @@
+stable_diffusion_webui_tools.exe -i D:\git\stable-diffusion-webui-tools\Bin\output -p Marvel_ -e png
